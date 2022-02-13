@@ -1,3 +1,5 @@
+## Hi, I am Abhishek! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Developer, Blogger from India!</h3>
 
