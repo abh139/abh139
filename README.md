@@ -32,9 +32,8 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://h
 
 ## 📈 Stats
 <p align="center">
-	
- <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=abh139&show_icons=true&theme=tokyonight" />
-	
+
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abh139)](https://github.com/abh139/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abh139&layout=compact)](https://github.com/abh139/github-readme-stats)
 
 </p>
