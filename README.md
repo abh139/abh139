@@ -9,6 +9,8 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://h
 <a href="https://medium.com/@abhishek22512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishek22512" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishek22512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek22512" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/caJHSYkxCn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/caJHSYkxCn" height="30" width="40" /></a>
+<a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" /></a>
+
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abh139&label=Profile%20views&color=0e75b6&style=flat" alt="abh139" /> </p>
 
