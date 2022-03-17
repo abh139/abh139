@@ -11,8 +11,17 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 <a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" /></a>
 
 </p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abh139&label=Profile%20views&color=0e75b6&style=flat" alt="abh139" /> </p>
 
+## 📈 Statistics 
+
+<p align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abh139&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abh139&theme=tokyonight" />
+</p>
 <img src="https://activity-graph.herokuapp.com/graph?username=abh139&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
@@ -23,7 +32,7 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)
 
 
 ## 💰 Support
@@ -32,10 +41,3 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 <br><br>
 
 
-## 📈 Stats
-<p align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abh139&layout=compact)](https://github.com/abh139/github-readme-stats)
-
-</p>
