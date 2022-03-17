@@ -1,4 +1,4 @@
-## Hi, I am Abhishek! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Abhishek. Glad to see you here!
 
 I am Abhishek, currently pursuing computer science from [MIET College](https://www.miet.ac.in/). I am a tech enthusiast and loves to contribute in opensource projects. I am always open to collab on projects. Find out more about me & feel free to connect with me here:
 
@@ -9,7 +9,6 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 <a href="https://www.hackerrank.com/abhishek22512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek22512" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/caJHSYkxCn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/caJHSYkxCn" height="30" width="40" /></a>
 <a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" /></a>
-
 </p>
 
 
