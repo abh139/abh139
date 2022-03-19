@@ -4,14 +4,24 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 
 
 <p align="left">
-<a href="https://dev.to/abhishek22512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhishek22512" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-kumar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishek22512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek22512" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/caJHSYkxCn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/caJHSYkxCn" height="30" width="40" /></a>
-<a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" /></a>
+<a href="https://dev.to/abhishek22512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhishek22512" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-kumar12/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+ <a href="mailto:abhishek22512@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+ <a href="https://www.instagram.com/abhishekk2132/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
+<a href="https://abhishekk.hashnode.dev/">
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a>
+<a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" />
+</a>
 </p>
 
-![Views](https://visitor-badge.laobi.icu/badge?page_id=abh139.abh139)
 
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
