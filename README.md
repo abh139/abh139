@@ -1,3 +1,7 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
 ## Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Abhishek. Glad to see you here!
 
 I am Abhishek, currently pursuing computer science from [MIET College](https://www.miet.ac.in/). I am a tech enthusiast and loves to contribute in opensource projects. I am always open to collab on projects. Find out more about me & feel free to connect with me here:
