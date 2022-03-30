@@ -47,10 +47,6 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)
 
- <h4 align="center">Most used languages</h4>
-<p align="center">
-	<img width="400em" src="https://api.githubtrends.io/user/svg/abh139/langs?time_range=one_year&loc_metric=changed&theme=dark">
-</p>
 
 
 ## 💰 Support
