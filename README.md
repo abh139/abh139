@@ -20,6 +20,9 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 </a>
 <a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" />
 </a>
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abh139.abh139)
+  
 </p>
 
 
@@ -36,22 +39,4 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=abh139&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-## ⚡ Technologies
-
-### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)
-
-
-
-## 💰 Support
-
-<p><a href="https://www.buymeacoffee.com/Abhishekk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Abhishekk" /></a></p>
-<br><br>
-
 
