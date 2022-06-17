@@ -21,7 +21,7 @@ I am Abhishek, currently pursuing computer science from [MIET College](https://w
 <a href="https://twitter.com/AbhishekKtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AbhishekKtwt" height="30" width="40" />
 </a>
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abh139.abh139)
+
   
 </p>
 
